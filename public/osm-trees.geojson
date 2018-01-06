@@ -1,0 +1,6313 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/3570833810",
+      "properties": {
+        "type": "node",
+        "id": "3570833810",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7750078,
+          39.3078269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833811",
+      "properties": {
+        "type": "node",
+        "id": "3570833811",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7750319,
+          39.3077896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833812",
+      "properties": {
+        "type": "node",
+        "id": "3570833812",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7749622,
+          39.3077958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833813",
+      "properties": {
+        "type": "node",
+        "id": "3570833813",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7748831,
+          39.3078248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833814",
+      "properties": {
+        "type": "node",
+        "id": "3570833814",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7742849,
+          39.3081803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833815",
+      "properties": {
+        "type": "node",
+        "id": "3570833815",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7742501,
+          39.3082705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833816",
+      "properties": {
+        "type": "node",
+        "id": "3570833816",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7743131,
+          39.3082264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833958",
+      "properties": {
+        "type": "node",
+        "id": "3570833958",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.774992,
+          39.3080954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833959",
+      "properties": {
+        "type": "node",
+        "id": "3570833959",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7750041,
+          39.3081401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833960",
+      "properties": {
+        "type": "node",
+        "id": "3570833960",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7750094,
+          39.3081909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833961",
+      "properties": {
+        "type": "node",
+        "id": "3570833961",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7750188,
+          39.3082386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833962",
+      "properties": {
+        "type": "node",
+        "id": "3570833962",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7750282,
+          39.3082729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833963",
+      "properties": {
+        "type": "node",
+        "id": "3570833963",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7750483,
+          39.308055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833964",
+      "properties": {
+        "type": "node",
+        "id": "3570833964",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7751248,
+          39.3080508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833965",
+      "properties": {
+        "type": "node",
+        "id": "3570833965",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7750885,
+          39.3080238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833966",
+      "properties": {
+        "type": "node",
+        "id": "3570833966",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7748954,
+          39.308332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833967",
+      "properties": {
+        "type": "node",
+        "id": "3570833967",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7747117,
+          39.3082968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833968",
+      "properties": {
+        "type": "node",
+        "id": "3570833968",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7747238,
+          39.3082277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833969",
+      "properties": {
+        "type": "node",
+        "id": "3570833969",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7754755,
+          39.3081862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833970",
+      "properties": {
+        "type": "node",
+        "id": "3570833970",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7755211,
+          39.3082132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833971",
+      "properties": {
+        "type": "node",
+        "id": "3570833971",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.775507,
+          39.3082786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833972",
+      "properties": {
+        "type": "node",
+        "id": "3570833972",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7753742,
+          39.3081224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833973",
+      "properties": {
+        "type": "node",
+        "id": "3570833973",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7753242,
+          39.3081386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833974",
+      "properties": {
+        "type": "node",
+        "id": "3570833974",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7753119,
+          39.3080843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833975",
+      "properties": {
+        "type": "node",
+        "id": "3570833975",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7752435,
+          39.3080933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833976",
+      "properties": {
+        "type": "node",
+        "id": "3570833976",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7753662,
+          39.3080788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833977",
+      "properties": {
+        "type": "node",
+        "id": "3570833977",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7753457,
+          39.3080536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570833978",
+      "properties": {
+        "type": "node",
+        "id": "3570833978",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7752857,
+          39.308046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570834397",
+      "properties": {
+        "type": "node",
+        "id": "3570834397",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7750831,
+          39.3078803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570834398",
+      "properties": {
+        "type": "node",
+        "id": "3570834398",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.774894,
+          39.3078803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570834399",
+      "properties": {
+        "type": "node",
+        "id": "3570834399",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7749597,
+          39.3079011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570834400",
+      "properties": {
+        "type": "node",
+        "id": "3570834400",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7751005,
+          39.3078409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570834401",
+      "properties": {
+        "type": "node",
+        "id": "3570834401",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7760835,
+          39.3079104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570834402",
+      "properties": {
+        "type": "node",
+        "id": "3570834402",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7760431,
+          39.3078534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570834403",
+      "properties": {
+        "type": "node",
+        "id": "3570834403",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7760356,
+          39.3079026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570834404",
+      "properties": {
+        "type": "node",
+        "id": "3570834404",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7759699,
+          39.3078934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570834405",
+      "properties": {
+        "type": "node",
+        "id": "3570834405",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7758976,
+          39.3078767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570834406",
+      "properties": {
+        "type": "node",
+        "id": "3570834406",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7759187,
+          39.3078279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904448",
+      "properties": {
+        "type": "node",
+        "id": "3570904448",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7797362,
+          39.3088337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904449",
+      "properties": {
+        "type": "node",
+        "id": "3570904449",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7794773,
+          39.3089281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904450",
+      "properties": {
+        "type": "node",
+        "id": "3570904450",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7793821,
+          39.3089842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904451",
+      "properties": {
+        "type": "node",
+        "id": "3570904451",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7792869,
+          39.3090018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904452",
+      "properties": {
+        "type": "node",
+        "id": "3570904452",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7791809,
+          39.3090495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904453",
+      "properties": {
+        "type": "node",
+        "id": "3570904453",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7792446,
+          39.3090417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904454",
+      "properties": {
+        "type": "node",
+        "id": "3570904454",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7791655,
+          39.309089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904455",
+      "properties": {
+        "type": "node",
+        "id": "3570904455",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7790666,
+          39.3091069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904456",
+      "properties": {
+        "type": "node",
+        "id": "3570904456",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7790297,
+          39.309138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904457",
+      "properties": {
+        "type": "node",
+        "id": "3570904457",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7788181,
+          39.3092221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904458",
+      "properties": {
+        "type": "node",
+        "id": "3570904458",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7787397,
+          39.3092239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904459",
+      "properties": {
+        "type": "node",
+        "id": "3570904459",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7786321,
+          39.3092957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904460",
+      "properties": {
+        "type": "node",
+        "id": "3570904460",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7785197,
+          39.3093103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904461",
+      "properties": {
+        "type": "node",
+        "id": "3570904461",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7784004,
+          39.3093562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904462",
+      "properties": {
+        "type": "node",
+        "id": "3570904462",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7782912,
+          39.3094166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904463",
+      "properties": {
+        "type": "node",
+        "id": "3570904463",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7783508,
+          39.3093917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904464",
+      "properties": {
+        "type": "node",
+        "id": "3570904464",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7782352,
+          39.309448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904465",
+      "properties": {
+        "type": "node",
+        "id": "3570904465",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7782209,
+          39.3095127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904466",
+      "properties": {
+        "type": "node",
+        "id": "3570904466",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7780549,
+          39.3096718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904467",
+      "properties": {
+        "type": "node",
+        "id": "3570904467",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.778025,
+          39.3097377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904468",
+      "properties": {
+        "type": "node",
+        "id": "3570904468",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7779382,
+          39.3097841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904469",
+      "properties": {
+        "type": "node",
+        "id": "3570904469",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7779067,
+          39.3098536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904470",
+      "properties": {
+        "type": "node",
+        "id": "3570904470",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7778115,
+          39.3099984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570904620",
+      "properties": {
+        "type": "node",
+        "id": "3570904620",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7778715,
+          39.3099162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570973617",
+      "properties": {
+        "type": "node",
+        "id": "3570973617",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7753489,
+          39.3092103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570973618",
+      "properties": {
+        "type": "node",
+        "id": "3570973618",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7753475,
+          39.3091574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570973619",
+      "properties": {
+        "type": "node",
+        "id": "3570973619",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7753375,
+          39.3090988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570973620",
+      "properties": {
+        "type": "node",
+        "id": "3570973620",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7753301,
+          39.309051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570973621",
+      "properties": {
+        "type": "node",
+        "id": "3570973621",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7753207,
+          39.3090012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570973622",
+      "properties": {
+        "type": "node",
+        "id": "3570973622",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7753107,
+          39.3089514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570973623",
+      "properties": {
+        "type": "node",
+        "id": "3570973623",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7752979,
+          39.308899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570973624",
+      "properties": {
+        "type": "node",
+        "id": "3570973624",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7752845,
+          39.3088461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4663463288",
+      "properties": {
+        "type": "node",
+        "id": "4663463288",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7427326,
+          39.3055508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4663463989",
+      "properties": {
+        "type": "node",
+        "id": "4663463989",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7423881,
+          39.3055064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4664249087",
+      "properties": {
+        "type": "node",
+        "id": "4664249087",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7420827,
+          39.3036944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4664249094",
+      "properties": {
+        "type": "node",
+        "id": "4664249094",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7411772,
+          39.3046802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4664249095",
+      "properties": {
+        "type": "node",
+        "id": "4664249095",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7410019,
+          39.304757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4664249096",
+      "properties": {
+        "type": "node",
+        "id": "4664249096",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7408519,
+          39.3048661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4664249097",
+      "properties": {
+        "type": "node",
+        "id": "4664249097",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7406333,
+          39.3049765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4664249098",
+      "properties": {
+        "type": "node",
+        "id": "4664249098",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7411573,
+          39.3048214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4664249099",
+      "properties": {
+        "type": "node",
+        "id": "4664249099",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7429671,
+          39.3053025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4664249157",
+      "properties": {
+        "type": "node",
+        "id": "4664249157",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7408823,
+          39.30646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4664249158",
+      "properties": {
+        "type": "node",
+        "id": "4664249158",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7401945,
+          39.3064253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4665435838",
+      "properties": {
+        "type": "node",
+        "id": "4665435838",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7450712,
+          39.3040691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4665435839",
+      "properties": {
+        "type": "node",
+        "id": "4665435839",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7454797,
+          39.3036803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4665435840",
+      "properties": {
+        "type": "node",
+        "id": "4665435840",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7451752,
+          39.3038453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4665435841",
+      "properties": {
+        "type": "node",
+        "id": "4665435841",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.745429,
+          39.3039081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4665435842",
+      "properties": {
+        "type": "node",
+        "id": "4665435842",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7452615,
+          39.3041928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4975977555",
+      "properties": {
+        "type": "node",
+        "id": "4975977555",
+        "tags": {
+          "leaf_cycle": "deciduous",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7529987,
+          39.2838097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547035",
+      "properties": {
+        "type": "node",
+        "id": "4978547035",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7451198,
+          39.2819794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547036",
+      "properties": {
+        "type": "node",
+        "id": "4978547036",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7451078,
+          39.2820498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547037",
+      "properties": {
+        "type": "node",
+        "id": "4978547037",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7450863,
+          39.2821893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547038",
+      "properties": {
+        "type": "node",
+        "id": "4978547038",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7450729,
+          39.282273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547039",
+      "properties": {
+        "type": "node",
+        "id": "4978547039",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7452942,
+          39.2823141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547040",
+      "properties": {
+        "type": "node",
+        "id": "4978547040",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7450555,
+          39.2823831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547041",
+      "properties": {
+        "type": "node",
+        "id": "4978547041",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7450461,
+          39.2824623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547042",
+      "properties": {
+        "type": "node",
+        "id": "4978547042",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7450246,
+          39.2826047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547043",
+      "properties": {
+        "type": "node",
+        "id": "4978547043",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7452647,
+          39.2825636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547044",
+      "properties": {
+        "type": "node",
+        "id": "4978547044",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7452446,
+          39.2826635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547045",
+      "properties": {
+        "type": "node",
+        "id": "4978547045",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7449965,
+          39.282778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547046",
+      "properties": {
+        "type": "node",
+        "id": "4978547046",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.744983,
+          39.282862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547047",
+      "properties": {
+        "type": "node",
+        "id": "4978547047",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7449656,
+          39.2829378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547048",
+      "properties": {
+        "type": "node",
+        "id": "4978547048",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7449535,
+          39.2829991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547049",
+      "properties": {
+        "type": "node",
+        "id": "4978547049",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7452177,
+          39.2827645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547050",
+      "properties": {
+        "type": "node",
+        "id": "4978547050",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.745199,
+          39.2828818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547051",
+      "properties": {
+        "type": "node",
+        "id": "4978547051",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7452016,
+          39.2829908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547052",
+      "properties": {
+        "type": "node",
+        "id": "4978547052",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7463523,
+          39.28049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547053",
+      "properties": {
+        "type": "node",
+        "id": "4978547053",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7463885,
+          39.2805918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547054",
+      "properties": {
+        "type": "node",
+        "id": "4978547054",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7464019,
+          39.2807226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547055",
+      "properties": {
+        "type": "node",
+        "id": "4978547055",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7463858,
+          39.2808544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547056",
+      "properties": {
+        "type": "node",
+        "id": "4978547056",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7458829,
+          39.2828179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547057",
+      "properties": {
+        "type": "node",
+        "id": "4978547057",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7458977,
+          39.2827388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547058",
+      "properties": {
+        "type": "node",
+        "id": "4978547058",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7459218,
+          39.2825426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547059",
+      "properties": {
+        "type": "node",
+        "id": "4978547059",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7459393,
+          39.2824419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547060",
+      "properties": {
+        "type": "node",
+        "id": "4978547060",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7459527,
+          39.2823289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547061",
+      "properties": {
+        "type": "node",
+        "id": "4978547061",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7459902,
+          39.2820807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547062",
+      "properties": {
+        "type": "node",
+        "id": "4978547062",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7460144,
+          39.2819194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547063",
+      "properties": {
+        "type": "node",
+        "id": "4978547063",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.746064,
+          39.2816447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547064",
+      "properties": {
+        "type": "node",
+        "id": "4978547064",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7461028,
+          39.2813592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547065",
+      "properties": {
+        "type": "node",
+        "id": "4978547065",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7459124,
+          39.281238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547066",
+      "properties": {
+        "type": "node",
+        "id": "4978547066",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7459674,
+          39.2810868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547067",
+      "properties": {
+        "type": "node",
+        "id": "4978547067",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7461498,
+          39.2810007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547068",
+      "properties": {
+        "type": "node",
+        "id": "4978547068",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7461713,
+          39.2808969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547069",
+      "properties": {
+        "type": "node",
+        "id": "4978547069",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7461833,
+          39.2807667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547070",
+      "properties": {
+        "type": "node",
+        "id": "4978547070",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7461592,
+          39.2806038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547071",
+      "properties": {
+        "type": "node",
+        "id": "4978547071",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7460519,
+          39.2804217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547072",
+      "properties": {
+        "type": "node",
+        "id": "4978547072",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7461579,
+          39.2802382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547073",
+      "properties": {
+        "type": "node",
+        "id": "4978547073",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7459232,
+          39.2802559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547074",
+      "properties": {
+        "type": "node",
+        "id": "4978547074",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7460693,
+          39.2801399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547075",
+      "properties": {
+        "type": "node",
+        "id": "4978547075",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7457797,
+          39.28009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547076",
+      "properties": {
+        "type": "node",
+        "id": "4978547076",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7456281,
+          39.2799109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547077",
+      "properties": {
+        "type": "node",
+        "id": "4978547077",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7459808,
+          39.2800386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547078",
+      "properties": {
+        "type": "node",
+        "id": "4978547078",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7458668,
+          39.2798947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547079",
+      "properties": {
+        "type": "node",
+        "id": "4978547079",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7457663,
+          39.2797787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547080",
+      "properties": {
+        "type": "node",
+        "id": "4978547080",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7457059,
+          39.2797097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547081",
+      "properties": {
+        "type": "node",
+        "id": "4978547081",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7456469,
+          39.2796319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547082",
+      "properties": {
+        "type": "node",
+        "id": "4978547082",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7455705,
+          39.2795438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547083",
+      "properties": {
+        "type": "node",
+        "id": "4978547083",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7454913,
+          39.2794587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547084",
+      "properties": {
+        "type": "node",
+        "id": "4978547084",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7454913,
+          39.2797508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547085",
+      "properties": {
+        "type": "node",
+        "id": "4978547085",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7452969,
+          39.2795233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547086",
+      "properties": {
+        "type": "node",
+        "id": "4978547086",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7452016,
+          39.2794088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547087",
+      "properties": {
+        "type": "node",
+        "id": "4978547087",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Willow Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7450206,
+          39.2793897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547088",
+      "properties": {
+        "type": "node",
+        "id": "4978547088",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Willow Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7448704,
+          39.2794704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547089",
+      "properties": {
+        "type": "node",
+        "id": "4978547089",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Willow Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7447296,
+          39.2795453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547090",
+      "properties": {
+        "type": "node",
+        "id": "4978547090",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Willow Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7448436,
+          39.2792898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547091",
+      "properties": {
+        "type": "node",
+        "id": "4978547091",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Willow Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7449388,
+          39.2792399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547092",
+      "properties": {
+        "type": "node",
+        "id": "4978547092",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Willow Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7449723,
+          39.2791518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547093",
+      "properties": {
+        "type": "node",
+        "id": "4978547093",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Willow Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7448033,
+          39.2789639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547094",
+      "properties": {
+        "type": "node",
+        "id": "4978547094",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Willow Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7446853,
+          39.2788421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547095",
+      "properties": {
+        "type": "node",
+        "id": "4978547095",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Willow Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7448892,
+          39.2787848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547096",
+      "properties": {
+        "type": "node",
+        "id": "4978547096",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Willow Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7449737,
+          39.2788788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547097",
+      "properties": {
+        "type": "node",
+        "id": "4978547097",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Willow Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7451225,
+          39.2790388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547098",
+      "properties": {
+        "type": "node",
+        "id": "4978547098",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7439584,
+          39.2789492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547099",
+      "properties": {
+        "type": "node",
+        "id": "4978547099",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7440429,
+          39.2790359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547100",
+      "properties": {
+        "type": "node",
+        "id": "4978547100",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.74411,
+          39.279121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547101",
+      "properties": {
+        "type": "node",
+        "id": "4978547101",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7442012,
+          39.279215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547102",
+      "properties": {
+        "type": "node",
+        "id": "4978547102",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7439263,
+          39.2791959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547103",
+      "properties": {
+        "type": "node",
+        "id": "4978547103",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7440671,
+          39.2793544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547104",
+      "properties": {
+        "type": "node",
+        "id": "4978547104",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7441221,
+          39.2794176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547105",
+      "properties": {
+        "type": "node",
+        "id": "4978547105",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7442562,
+          39.2792766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547106",
+      "properties": {
+        "type": "node",
+        "id": "4978547106",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7443299,
+          39.2793574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547107",
+      "properties": {
+        "type": "node",
+        "id": "4978547107",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7443903,
+          39.2794308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547108",
+      "properties": {
+        "type": "node",
+        "id": "4978547108",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.744629,
+          39.279604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547109",
+      "properties": {
+        "type": "node",
+        "id": "4978547109",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7446062,
+          39.279673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547110",
+      "properties": {
+        "type": "node",
+        "id": "4978547110",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7447068,
+          39.279789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547111",
+      "properties": {
+        "type": "node",
+        "id": "4978547111",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7447712,
+          39.279858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547112",
+      "properties": {
+        "type": "node",
+        "id": "4978547112",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7448516,
+          39.2799461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547113",
+      "properties": {
+        "type": "node",
+        "id": "4978547113",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7449053,
+          39.280018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547114",
+      "properties": {
+        "type": "node",
+        "id": "4978547114",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7449991,
+          39.2801237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547115",
+      "properties": {
+        "type": "node",
+        "id": "4978547115",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7451158,
+          39.2802485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547116",
+      "properties": {
+        "type": "node",
+        "id": "4978547116",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7451695,
+          39.2803175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547117",
+      "properties": {
+        "type": "node",
+        "id": "4978547117",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7452379,
+          39.2803953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547118",
+      "properties": {
+        "type": "node",
+        "id": "4978547118",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7445539,
+          39.2798991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547119",
+      "properties": {
+        "type": "node",
+        "id": "4978547119",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7446116,
+          39.2799725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547120",
+      "properties": {
+        "type": "node",
+        "id": "4978547120",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7446786,
+          39.28004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547121",
+      "properties": {
+        "type": "node",
+        "id": "4978547121",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7448074,
+          39.2802015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547122",
+      "properties": {
+        "type": "node",
+        "id": "4978547122",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7449656,
+          39.2803806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547123",
+      "properties": {
+        "type": "node",
+        "id": "4978547123",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7453519,
+          39.2805407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547124",
+      "properties": {
+        "type": "node",
+        "id": "4978547124",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7454189,
+          39.2806111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547125",
+      "properties": {
+        "type": "node",
+        "id": "4978547125",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7454658,
+          39.2807036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547126",
+      "properties": {
+        "type": "node",
+        "id": "4978547126",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7454927,
+          39.2808152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547127",
+      "properties": {
+        "type": "node",
+        "id": "4978547127",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7454873,
+          39.2809444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547128",
+      "properties": {
+        "type": "node",
+        "id": "4978547128",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7451574,
+          39.2806141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547129",
+      "properties": {
+        "type": "node",
+        "id": "4978547129",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7452499,
+          39.2807785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547130",
+      "properties": {
+        "type": "node",
+        "id": "4978547130",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7452808,
+          39.280893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547131",
+      "properties": {
+        "type": "node",
+        "id": "4978547131",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7452379,
+          39.2811587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547132",
+      "properties": {
+        "type": "node",
+        "id": "4978547132",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7454323,
+          39.2812908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547133",
+      "properties": {
+        "type": "node",
+        "id": "4978547133",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7454202,
+          39.2813877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547134",
+      "properties": {
+        "type": "node",
+        "id": "4978547134",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7453948,
+          39.2815287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547135",
+      "properties": {
+        "type": "node",
+        "id": "4978547135",
+        "tags": {
+          "natural": "tree"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7452003,
+          39.2814259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547136",
+      "properties": {
+        "type": "node",
+        "id": "4978547136",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7451949,
+          39.281492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547137",
+      "properties": {
+        "type": "node",
+        "id": "4978547137",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7451735,
+          39.2815947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547138",
+      "properties": {
+        "type": "node",
+        "id": "4978547138",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7453814,
+          39.2816168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547139",
+      "properties": {
+        "type": "node",
+        "id": "4978547139",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7451641,
+          39.2816931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547140",
+      "properties": {
+        "type": "node",
+        "id": "4978547140",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7453693,
+          39.2817283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547141",
+      "properties": {
+        "type": "node",
+        "id": "4978547141",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.74514,
+          39.2817812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547142",
+      "properties": {
+        "type": "node",
+        "id": "4978547142",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7453586,
+          39.2818678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547143",
+      "properties": {
+        "type": "node",
+        "id": "4978547143",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7453492,
+          39.281975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547144",
+      "properties": {
+        "type": "node",
+        "id": "4978547144",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7453223,
+          39.2820997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4978547145",
+      "properties": {
+        "type": "node",
+        "id": "4978547145",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm Princeton"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7453076,
+          39.2822319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872592",
+      "properties": {
+        "type": "node",
+        "id": "5000872592",
+        "tags": {
+          "circumference": "25.13 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "White Ash"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7199455,
+          39.2656182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872593",
+      "properties": {
+        "type": "node",
+        "id": "5000872593",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7200382,
+          39.2656472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872594",
+      "properties": {
+        "type": "node",
+        "id": "5000872594",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7201037,
+          39.2657977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872595",
+      "properties": {
+        "type": "node",
+        "id": "5000872595",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7202612,
+          39.2657029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872596",
+      "properties": {
+        "type": "node",
+        "id": "5000872596",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7204121,
+          39.2656594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872597",
+      "properties": {
+        "type": "node",
+        "id": "5000872597",
+        "tags": {
+          "circumference": "75.4 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Catalpa"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7205139,
+          39.2656028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872598",
+      "properties": {
+        "type": "node",
+        "id": "5000872598",
+        "tags": {
+          "circumference": "75.4 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "White Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7205511,
+          39.2657261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872599",
+      "properties": {
+        "type": "node",
+        "id": "5000872599",
+        "tags": {
+          "circumference": "78.54 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "White Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7207389,
+          39.2656311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872600",
+      "properties": {
+        "type": "node",
+        "id": "5000872600",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7207744,
+          39.2655467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872601",
+      "properties": {
+        "type": "node",
+        "id": "5000872601",
+        "tags": {
+          "circumference": "87.96 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "White Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7209166,
+          39.2654418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872602",
+      "properties": {
+        "type": "node",
+        "id": "5000872602",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7210071,
+          39.2653401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872603",
+      "properties": {
+        "type": "node",
+        "id": "5000872603",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7211105,
+          39.2652499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872604",
+      "properties": {
+        "type": "node",
+        "id": "5000872604",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7212288,
+          39.2651505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872605",
+      "properties": {
+        "type": "node",
+        "id": "5000872605",
+        "tags": {
+          "circumference": "18.85 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Red Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.721704,
+          39.265213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872606",
+      "properties": {
+        "type": "node",
+        "id": "5000872606",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7220522,
+          39.2657598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872607",
+      "properties": {
+        "type": "node",
+        "id": "5000872607",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7221239,
+          39.2658772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872608",
+      "properties": {
+        "type": "node",
+        "id": "5000872608",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.722197,
+          39.2659986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872609",
+      "properties": {
+        "type": "node",
+        "id": "5000872609",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7223099,
+          39.2661885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872610",
+      "properties": {
+        "type": "node",
+        "id": "5000872610",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7224225,
+          39.2663668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872611",
+      "properties": {
+        "type": "node",
+        "id": "5000872611",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.722537,
+          39.2665539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872612",
+      "properties": {
+        "type": "node",
+        "id": "5000872612",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7226513,
+          39.2667379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872613",
+      "properties": {
+        "type": "node",
+        "id": "5000872613",
+        "tags": {
+          "circumference": "15.71 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Redbud"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7217343,
+          39.2642169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872614",
+      "properties": {
+        "type": "node",
+        "id": "5000872614",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7226785,
+          39.2667838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872615",
+      "properties": {
+        "type": "node",
+        "id": "5000872615",
+        "tags": {
+          "circumference": "15.71 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Redbud"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7216814,
+          39.2641424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872616",
+      "properties": {
+        "type": "node",
+        "id": "5000872616",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7227403,
+          39.2668833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872617",
+      "properties": {
+        "type": "node",
+        "id": "5000872617",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7218443,
+          39.2641447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872618",
+      "properties": {
+        "type": "node",
+        "id": "5000872618",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7227734,
+          39.2669416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872619",
+      "properties": {
+        "type": "node",
+        "id": "5000872619",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7219174,
+          39.2642343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000872620",
+      "properties": {
+        "type": "node",
+        "id": "5000872620",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7227884,
+          39.2669728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874421",
+      "properties": {
+        "type": "node",
+        "id": "5000874421",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7219902,
+          39.2643337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874422",
+      "properties": {
+        "type": "node",
+        "id": "5000874422",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7228347,
+          39.2670419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874423",
+      "properties": {
+        "type": "node",
+        "id": "5000874423",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7220505,
+          39.2644347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874424",
+      "properties": {
+        "type": "node",
+        "id": "5000874424",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7228652,
+          39.2670854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874425",
+      "properties": {
+        "type": "node",
+        "id": "5000874425",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7218943,
+          39.2644733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874426",
+      "properties": {
+        "type": "node",
+        "id": "5000874426",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7228904,
+          39.2671379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874427",
+      "properties": {
+        "type": "node",
+        "id": "5000874427",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7216784,
+          39.2645452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874428",
+      "properties": {
+        "type": "node",
+        "id": "5000874428",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7229533,
+          39.2672328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874429",
+      "properties": {
+        "type": "node",
+        "id": "5000874429",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7215573,
+          39.2646068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874430",
+      "properties": {
+        "type": "node",
+        "id": "5000874430",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7229825,
+          39.2672862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874431",
+      "properties": {
+        "type": "node",
+        "id": "5000874431",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7214426,
+          39.2646699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874432",
+      "properties": {
+        "type": "node",
+        "id": "5000874432",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7230091,
+          39.2673277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874433",
+      "properties": {
+        "type": "node",
+        "id": "5000874433",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7213186,
+          39.2647433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874434",
+      "properties": {
+        "type": "node",
+        "id": "5000874434",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7230581,
+          39.2674101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874435",
+      "properties": {
+        "type": "node",
+        "id": "5000874435",
+        "tags": {
+          "circumference": "144.51 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Red Oak"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7213149,
+          39.2650413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874436",
+      "properties": {
+        "type": "node",
+        "id": "5000874436",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7230915,
+          39.26746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874437",
+      "properties": {
+        "type": "node",
+        "id": "5000874437",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7211406,
+          39.2650063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874438",
+      "properties": {
+        "type": "node",
+        "id": "5000874438",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7231199,
+          39.2675121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874439",
+      "properties": {
+        "type": "node",
+        "id": "5000874439",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7211054,
+          39.2650387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874440",
+      "properties": {
+        "type": "node",
+        "id": "5000874440",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.72317,
+          39.267595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874441",
+      "properties": {
+        "type": "node",
+        "id": "5000874441",
+        "tags": {
+          "circumference": "81.68 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "White Ash"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7210876,
+          39.2650891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874442",
+      "properties": {
+        "type": "node",
+        "id": "5000874442",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Sugar Maple"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7231982,
+          39.2676332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874443",
+      "properties": {
+        "type": "node",
+        "id": "5000874443",
+        "tags": {
+          "circumference": "150.8 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Black Walnut"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7209669,
+          39.2651869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874444",
+      "properties": {
+        "type": "node",
+        "id": "5000874444",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7208049,
+          39.2652884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874445",
+      "properties": {
+        "type": "node",
+        "id": "5000874445",
+        "tags": {
+          "circumference": "18.85 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Mimosa (Silk Tree)"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.720707,
+          39.2653598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874446",
+      "properties": {
+        "type": "node",
+        "id": "5000874446",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7204321,
+          39.2655265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874447",
+      "properties": {
+        "type": "node",
+        "id": "5000874447",
+        "tags": {
+          "circumference": "87.96 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Black Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7201709,
+          39.2656183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000874448",
+      "properties": {
+        "type": "node",
+        "id": "5000874448",
+        "tags": {
+          "circumference": "6.28 inches",
+          "leaf_type": "broadleaved",
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7202311,
+          39.2656467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540976",
+      "properties": {
+        "type": "node",
+        "id": "5086540976",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7370243,
+          39.2528745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540977",
+      "properties": {
+        "type": "node",
+        "id": "5086540977",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7370424,
+          39.2528436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540978",
+      "properties": {
+        "type": "node",
+        "id": "5086540978",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7366883,
+          39.2526266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540979",
+      "properties": {
+        "type": "node",
+        "id": "5086540979",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7366521,
+          39.2528509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540980",
+      "properties": {
+        "type": "node",
+        "id": "5086540980",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7368928,
+          39.2535181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540981",
+      "properties": {
+        "type": "node",
+        "id": "5086540981",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7368788,
+          39.2535802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540982",
+      "properties": {
+        "type": "node",
+        "id": "5086540982",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7368724,
+          39.2536352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540983",
+      "properties": {
+        "type": "node",
+        "id": "5086540983",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7368912,
+          39.2538037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540984",
+      "properties": {
+        "type": "node",
+        "id": "5086540984",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7366937,
+          39.2535646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540985",
+      "properties": {
+        "type": "node",
+        "id": "5086540985",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7367282,
+          39.2535231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540986",
+      "properties": {
+        "type": "node",
+        "id": "5086540986",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7367758,
+          39.2534148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540987",
+      "properties": {
+        "type": "node",
+        "id": "5086540987",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7368556,
+          39.2532476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540988",
+      "properties": {
+        "type": "node",
+        "id": "5086540988",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7365827,
+          39.2532419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540989",
+      "properties": {
+        "type": "node",
+        "id": "5086540989",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7366079,
+          39.2530321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540990",
+      "properties": {
+        "type": "node",
+        "id": "5086540990",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.736287,
+          39.2530589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540991",
+      "properties": {
+        "type": "node",
+        "id": "5086540991",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7360758,
+          39.2529374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540992",
+      "properties": {
+        "type": "node",
+        "id": "5086540992",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7361237,
+          39.2526346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540993",
+      "properties": {
+        "type": "node",
+        "id": "5086540993",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7362739,
+          39.2525835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540994",
+      "properties": {
+        "type": "node",
+        "id": "5086540994",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7365016,
+          39.2524934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540995",
+      "properties": {
+        "type": "node",
+        "id": "5086540995",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7365539,
+          39.2524467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540996",
+      "properties": {
+        "type": "node",
+        "id": "5086540996",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7366615,
+          39.2523823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540997",
+      "properties": {
+        "type": "node",
+        "id": "5086540997",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7367222,
+          39.2523363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540998",
+      "properties": {
+        "type": "node",
+        "id": "5086540998",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7368157,
+          39.2522509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086540999",
+      "properties": {
+        "type": "node",
+        "id": "5086540999",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7371161,
+          39.2520609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541000",
+      "properties": {
+        "type": "node",
+        "id": "5086541000",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7371487,
+          39.2521092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541001",
+      "properties": {
+        "type": "node",
+        "id": "5086541001",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7371481,
+          39.2521579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541002",
+      "properties": {
+        "type": "node",
+        "id": "5086541002",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7371456,
+          39.2522052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541003",
+      "properties": {
+        "type": "node",
+        "id": "5086541003",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7371473,
+          39.2523124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541004",
+      "properties": {
+        "type": "node",
+        "id": "5086541004",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7371386,
+          39.2523584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541005",
+      "properties": {
+        "type": "node",
+        "id": "5086541005",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7362618,
+          39.2532983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541006",
+      "properties": {
+        "type": "node",
+        "id": "5086541006",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7371316,
+          39.2524072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541007",
+      "properties": {
+        "type": "node",
+        "id": "5086541007",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.73618,
+          39.2532591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541008",
+      "properties": {
+        "type": "node",
+        "id": "5086541008",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7371232,
+          39.2524536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541009",
+      "properties": {
+        "type": "node",
+        "id": "5086541009",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7361236,
+          39.2531951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541010",
+      "properties": {
+        "type": "node",
+        "id": "5086541010",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7371158,
+          39.2525066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541011",
+      "properties": {
+        "type": "node",
+        "id": "5086541011",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7371027,
+          39.2525629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541012",
+      "properties": {
+        "type": "node",
+        "id": "5086541012",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7370953,
+          39.2526167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541013",
+      "properties": {
+        "type": "node",
+        "id": "5086541013",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7359467,
+          39.2528249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541014",
+      "properties": {
+        "type": "node",
+        "id": "5086541014",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7370789,
+          39.252679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541015",
+      "properties": {
+        "type": "node",
+        "id": "5086541015",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7360451,
+          39.2526902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541016",
+      "properties": {
+        "type": "node",
+        "id": "5086541016",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Kwanzan Cherry"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7369807,
+          39.2525539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541017",
+      "properties": {
+        "type": "node",
+        "id": "5086541017",
+        "tags": {
+          "natural": "tree",
+          "species:en": "American Elm"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7369639,
+          39.2526014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541018",
+      "properties": {
+        "type": "node",
+        "id": "5086541018",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7365177,
+          39.2524757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5086541019",
+      "properties": {
+        "type": "node",
+        "id": "5086541019",
+        "tags": {
+          "natural": "tree",
+          "species:en": "Linden"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7368445,
+          39.2522232
+        ]
+      }
+    }
+  ]
+}
