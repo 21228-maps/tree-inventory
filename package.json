@@ -1,6 +1,6 @@
 {
   "name": "tree-inventory",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "dependencies": {
     "eslint-plugin-jsx-a11y": "5",
     "ol": "^4.6.4",
