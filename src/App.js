@@ -6,6 +6,7 @@ import TileLayer from 'ol/layer/tile';
 import Map from 'ol/map';
 import proj from 'ol/proj';
 import VectorSource from 'ol/source/vector';
+import TileWMS from 'ol/source/tilewms';
 import XYZSource from 'ol/source/xyz';
 import Circle from 'ol/style/circle';
 import Stroke from 'ol/style/stroke';
@@ -31,6 +32,18 @@ class App extends Component {
         new Group({
           title: 'OSM',
           layers: [
+
+            new TileLayer({
+             source: new TileWMS({
+               url: 'http://geodata.md.gov/imap/services/Imagery/MD_SixInchImagery/ImageServer/WMSServer',
+               params: {
+                 LAYERS: 'MD_SixInchImagery',
+               },
+             }),
+             title: 'NAIP',
+             type: 'base',
+           }),
+
             new TileLayer({
               source: new XYZSource({
                 url: 'https://api.mapbox.com/styles/v1/eczajk1/cis9p0srk003k2xt64t8g3tu4/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZWN6YWprMSIsImEiOiIzeVJsZENzIn0.qU3ya0uQmCvX5OyCxkKCuw'
