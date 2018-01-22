@@ -8,8 +8,7 @@ import proj from 'ol/proj';
 import VectorSource from 'ol/source/vector';
 import TileWMS from 'ol/source/tilewms';
 import XYZSource from 'ol/source/xyz';
-import Circle from 'ol/style/circle';
-import Stroke from 'ol/style/stroke';
+import Icon from 'ol/style/icon';
 import Style from 'ol/style/style';
 import View from 'ol/view';
 import './App.css';
@@ -63,13 +62,13 @@ class App extends Component {
                 url: './spring_grove_tree_inventory.geojson',
               }),
               style: new Style({
-                image: new Circle({
-                  radius: 4,
-                  fill: null,
-                  stroke: new Stroke({
-                    color: 'green'
-                  })
-                })
+                image: new Icon({
+                  // anchor: [0.5, 46],
+                  anchorXUnits: 'fraction',
+                  anchorYUnits: 'pixels',
+                  opacity: .7,
+                  src: './park-11-blue.svg'
+                }),
               }),
               title: 'Fulcrum Trees',
             }),
@@ -79,13 +78,13 @@ class App extends Component {
                 url: './osm-trees.geojson',
               }),
               style: new Style({
-                image: new Circle({
-                  radius: 4,
-                  fill: null,
-                  stroke: new Stroke({
-                    color: 'magenta'
-                  })
-                })
+                image: new Icon({
+                  // anchor: [0.5, 46],
+                  anchorXUnits: 'fraction',
+                  anchorYUnits: 'pixels',
+                  opacity: .7,
+                  src: './park-11-orange.svg'
+                }),
               }),
               title: 'OSM Trees',
             })
